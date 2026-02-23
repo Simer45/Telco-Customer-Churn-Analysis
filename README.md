@@ -111,10 +111,10 @@ Five business queries written in MySQL:
 ## 👤 Author
 
 
-**Simerpreet Kaur**
+Simerpreet Kaur
 
 Data Analyst | Python • SQL • Power BI • Excel
 
-[LinkedIn Profile](https://www.linkedin.com/in/simer-preet-kaur/)
+https://www.linkedin.com/in/simer-preet-kaur/
 
-[GitHub Profile](https://github.com/Simer45)
+https://github.com/Simer45
