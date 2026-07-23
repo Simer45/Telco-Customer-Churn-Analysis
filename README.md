@@ -79,6 +79,20 @@ Telco-Customer-Churn-Analysis/
 
 ## 📈 Visualizations
 
+![Churn Distribution](churn_distribution.png)
+
+![Churn by Contract Type](churn_by_contract_type.png)
+
+![Churn by Internet Service](churn_by_internet_service.png)
+
+![Tenure Distribution by Churn](tenure_distribution_by_churn.png)
+
+![Monthly Charges by Churn](monthly_charges_by_churn.png)
+
+![Correlation Heatmap](correlation_heatmap.png)
+
+---
+
 - **Churn Distribution** — Overall breakdown of churned vs retained customers
 - **Churn by Contract Type** — Bar chart showing churn rate across contract types
 - **Churn by Internet Service** — Comparison across DSL, Fiber optic, and No service
